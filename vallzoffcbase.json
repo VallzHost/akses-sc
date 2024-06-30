@@ -1,1 +1,9 @@
-
+{
+  "allowedIps": ["168.1.8"],
+  "users": [
+    {
+      "username": "Vallzoffc",
+      "password": "#Vallzgg"
+    }
+  ]
+}
